@@ -1,0 +1,8 @@
+{
+  tienePreferencias: true,
+  preferencias: [
+    "compras",
+    "tienda",
+    "ofertas"
+  ]
+}
