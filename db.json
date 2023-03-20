@@ -1,8 +1,11 @@
 {
-  "tienePreferencias": true,
+ "cliente":{
+   "ani":"oXHskpkZLW+m8V9XffzY8w=="
+   "tienePreferencias": true,
   "preferencias": [
     "compras",
     "tienda",
     "ofertas"
   ]
+ }
 }
