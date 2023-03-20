@@ -1,6 +1,6 @@
 {
-  tienePreferencias: true,
-  preferencias: [
+  "tienePreferencias": true,
+  "preferencias": [
     "compras",
     "tienda",
     "ofertas"
